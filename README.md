@@ -6,7 +6,7 @@ I design and deploy applied machine learning systems with an emphasis on **end-t
 
 My background is in revenue management, dynamic pricing, and demand forecasting.
 
-My current focus is on **building, shipping, and operating AI-powered products**, not isolated models.
+My current focus is on **building, shipping, and operating AI-powered products**.
 
 ---
 
@@ -45,19 +45,12 @@ This repository collection showcases **the full lifecycle of AI product producti
 ## Representative Projects
 
 * **Language Learning Diagnostic Assistant**
-  JTBD-driven MVP with explicit pass/fail learning signals
+  JTBD-driven MVP with explicit pass/fail learning signals [project repo](https://github.com/xiaodongyu/vocab_builder)
 
 * **Career Fit Engine**
-  Role taxonomy, evaluation heuristics, and GenAI-assisted reasoning pipeline
+  Role taxonomy, evaluation heuristics, and GenAI-assisted reasoning pipeline [project repo](https://github.com/xiaodongyu/Job-fit-engine)
 
 (See individual repositories for implementation details.)
-
----
-
-## Intent
-
-These projects reflect the direction I am intentionally moving toward:
-**owning AI products from problem definition through deployment and iteration**, not just model development.
 
 ---
 
