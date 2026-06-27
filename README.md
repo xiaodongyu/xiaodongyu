@@ -44,8 +44,8 @@ This repository collection showcases **the full lifecycle of AI product producti
 
 ## Representative Projects
 
-* **Language Learning Diagnostic Assistant**
-  JTBD-driven MVP with explicit pass/fail learning signals [project repo](https://github.com/xiaodongyu/vocab_builder)
+* **OpenClarity**
+  OpenClarity is an open-source AI visual assistance platform for blind and low-vision users. Built on smart glasses, it delivers hands-free, first-person visual information — reading text, identifying objects, and describing scenes — so users can navigate everyday life with greater independence and confidence. [project repo](https://github.com/xiaodongyu/OpenClarity)
 
 * **Career Fit Engine**
   Role taxonomy, evaluation heuristics, and GenAI-assisted reasoning pipeline [project repo](https://github.com/xiaodongyu/Job-fit-engine)
