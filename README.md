@@ -44,8 +44,8 @@ This repository collection showcases **the full lifecycle of AI product producti
 
 ## Representative Projects
 
-* **OpenClarity**
-  OpenClarity is an open-source AI visual assistance platform for blind and low-vision users. Built on smart glasses, it delivers hands-free, first-person visual information — reading text, identifying objects, and describing scenes — so users can navigate everyday life with greater independence and confidence. [project repo](https://github.com/xiaodongyu/OpenClarity)
+* **Noticly**
+  Noticly is an open-source AI visual assistance platform for blind and low-vision users. Built on smart glasses, it delivers hands-free, first-person visual information — reading text, identifying objects, and describing scenes — so users can navigate everyday life with greater independence and confidence. [project repo](https://github.com/Noticly)
 
 (See individual repositories for implementation details.)
 
